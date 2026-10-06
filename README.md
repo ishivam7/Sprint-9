@@ -5,10 +5,6 @@ A modern, SEO-optimized Movie Discovery application upgraded for the Track A: Fr
 Important Links
 Live Website:https://sprint-9-red.vercel.app/
 
-Demo Video: https://drive.google.com/file/d/1Z7MHwYJsRUQUlmQSCJEiR1QurTiV0YNH/view?usp=drivesdk
-
-Screenshot
-https://github.com/Sarvesh-88/Sprint-9/blob/main/sprint-9-img1.png
 
 Project Overview
 Cine-Stream SPA Upgrade focuses on modernizing a React-based movie application by migrating it to Next.js 15. The core theme revolves around Server-Side Rendering (SSR) and SEO optimization, moving away from client-side routing to Next.js native file-based routing.
